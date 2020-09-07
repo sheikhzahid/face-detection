@@ -1,6 +1,6 @@
 # Face-Detection
 ### Overview
-Here I have created a real time face recognition / detection app using the webcam and a JavaScript library called [face-api](https://github.com/justadudewhohacks/face-api.js/#face-apijs) which uses TensoFlow. With this, not only are we able to detect faces but we will be able to define key facial features and detect expressions and moods, as well as approximate the person's age.
+Here I have created a real time face recognition / detection app using the webcam and a JavaScript library called [face-api](https://github.com/justadudewhohacks/face-api.js/#face-apijs) which uses TensoFlow. With this, not only are we able to detect faces but we are also able to define key facial features, detect expressions and moods, and approximate the person's age as well.
 ### face-api.js
 The face-api.js JavaScript module implements convolutional neural networks to solve for face detection and recognition of faces and face landmarks. The face-api.js leverages TensorFlow.js and is optimized for the desktop and mobile web. There are several models available with face-api.js, including face detection, face landmark detection, face recognition, facial expression recognition, age estimation, and gender recognition. To get started with face-api.js, developers can include the latest JavaScript resource of face-api.js or install it via npm: 
 ```
