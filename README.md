@@ -9,10 +9,10 @@ npm i face-api.js
 JavaScript face recognition API for the browser and nodejs implemented on top of tensorflow.js core
 
 ![Screenshot (175)](https://user-images.githubusercontent.com/49448914/92389692-34d39c00-f137-11ea-876c-b74efd75c51f.png)
-_Happy? No kidding._
+_"happy"? No kidding._
 
 ![Screenshot (176)](https://user-images.githubusercontent.com/49448914/92389705-39985000-f137-11ea-85e9-0dcfad1f0510.png)
-_The age detection algorithm is not up to the mark as it always thinks I am a decade older than my actual age. Or maybe it's just the beard._
+_The age detection algorithm is not up to the mark as it always thinks I am a decade older than my actual age. Or maybe, it's just the beard._
 
 ![Screenshot (173)](https://user-images.githubusercontent.com/49448914/92389716-3d2bd700-f137-11ea-8796-1d2a63422871.png)
 _Very, very sad, indeed._
