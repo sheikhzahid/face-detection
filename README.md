@@ -18,4 +18,5 @@ _The age detection algorithm is not up to the mark as it always thinks I am a de
 _Very, very sad, indeed._
 ### Live Server
 Now, after you have coded in to you preferred code editor, you will need to `Go Live`. In order to do so, install a Live Server Web Extension, like [ritwickdey.liveserver](https://ritwickdey.github.io/vscode-live-server/) on VSCode editor, right click on a HTML file from Explorer Window & click to `Open with Live Server`.
+
 Well, that's it. My first try at JS.
